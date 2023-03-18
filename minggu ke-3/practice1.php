@@ -144,7 +144,6 @@
             return 'Tidak Memadai';
             }
         }
-
         $keterangan = skor_skill($jumlah)
         ?>
 
